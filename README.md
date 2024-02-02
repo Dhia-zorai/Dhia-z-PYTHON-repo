@@ -1,1 +1,1 @@
-Personal Python/QTDesinger5 projects 
+Personal Python/QTDesigner5 projects 
