@@ -1,1 +1,1 @@
-Personal Python/QTDesigner5 projects 
+This repository contains my personal Python/QTDesigner5 projects. 
